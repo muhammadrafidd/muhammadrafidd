@@ -16,6 +16,7 @@ Currently working as Material Control, but I like to learn new things in program
 <p>
     <a href="www.linkedin.com/in/mhd-rafid-rahman-2704b8218" target="blank"><img src="https://img.shields.io/badge/Mhd_Rafidrahman-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://tw.muhammadrafid.com" target="blank"><img src="https://img.shields.io/badge/muhammadrafid_-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://www.credly.com/users/mhd-rafid-rahman" target="blank"><img src="https://img.shields.io/badge/muhammadrafid_-30302f?style=flat&logo=credly" /></a>
 </p>
 
 ### Stats:
